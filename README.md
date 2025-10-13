@@ -1,2 +1,4 @@
-# Tkinter_storage
-A storage that keeps python simple and mini games
+# Projects
+---
+
+### This repository will be a place for new projects that I'm building to learn how to code.
