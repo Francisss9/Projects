@@ -6,7 +6,6 @@ echo "Hi $name"
 
 sleep 1
 
-
 echo "Let's start coding!"
 
 read answer
@@ -19,4 +18,5 @@ if [[ $answer == "Yes" ]]; then
 else
 
  echo "Maybe next time!"
+
 fi
