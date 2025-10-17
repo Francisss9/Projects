@@ -25,7 +25,7 @@ This repository will be a place for new projects that I'm building to learn how 
 <br>
 
 <p align="center">
-    Aplicação
+    --
 </p>
 
 <br>
